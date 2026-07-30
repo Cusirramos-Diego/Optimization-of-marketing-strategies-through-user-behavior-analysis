@@ -16,6 +16,13 @@ Python | SQL | Pandas | NumPy | Matplotlib | Seaborn
 •	Built cohort analyses and retention metrics for multiple acquisition channels.  
 •	Identified opportunities to optimize marketing budget allocation using profitability indicators.
 
+📈 Graphical visualization:  
+• Daily trend of service users by device used:  
+<img width="1980" height="1125" alt="image" src="https://github.com/user-attachments/assets/23d4a884-a3fc-4ebe-a609-276d57d8258a" />
+
+• Analysis of cohort lifetime relative to average purchase revenue (in dollars) per user:  
+<img width="1546" height="1125" alt="image" src="https://github.com/user-attachments/assets/5d0e064d-0a99-4e42-ae06-5c43c0350d39" />
+
 💭 Recommendations:  
 Recommended prioritizing channels with the highest return on investment and rethinking the acquisition strategy for those with low profitability and lower user retention.
 
