@@ -23,7 +23,27 @@ Python | SQL | Pandas | NumPy | Matplotlib | Seaborn
 • Analysis of cohort lifetime relative to average purchase revenue (in dollars) per user:  
 <img width="1546" height="1125" alt="image" src="https://github.com/user-attachments/assets/5d0e064d-0a99-4e42-ae06-5c43c0350d39" />
 
-💭 Recommendations:  
+🎯 KPIs to change:  
+•	CAC.  
+•	LTV.  
+•	ROI.  
+•	Retention.  
+•	Conversion.  
+•	Revenue per user.  
+
+🤔 Subsequent hypothesis worth evaluating:  
+Increasing investment in the channels that yield the highest LTV and best retention would boost the return on ad spend and lower the average acquisition cost.
+
+💡 Recommended decision for the Product Manager:  
+Redistribute the budget toward acquisition sources with the best balance between CAC, LTV, and ROI, and reduce investment in channels with low profitability and poor retention.
+
+🚀 Expected impact:  
+•	Higher marketing budget ROI.  
+•	Better quality of acquired users.  
+•	Increased LTV.  
+•	Optimization of advertising spend.  
+
+💭 General recommendations:  
 Recommended prioritizing channels with the highest return on investment and rethinking the acquisition strategy for those with low profitability and lower user retention.
 
 ▶️ How to Run:  
