@@ -1,12 +1,25 @@
 # Optimization of marketing strategies through user behavior analysis
 
 📌 Project Description:  
-The behavior of users on a digital platform was analyzed to evaluate the effectiveness of acquisition channels and optimize marketing investment.
+The behavior of users on a digital platform was analyzed to evaluate the effectiveness of acquisition channels and optimize marketing investment.  
+
+❓ Business Challenge:  
+Marketing investment was distributed across multiple acquisition channels without a clear understanding of which sources generated the highest long-term business value. The objective of this project was to identify the most profitable acquisition strategies by combining user behavior analysis with financial performance metrics.
 
 🔍 Methodology:  
 •	Analyzed the complete user journey using cohorts, conversion funnels, and acquisition metrics.  
 •	Calculated business indicators such as CAC, LTV, ROI, and retention to compare the performance of different marketing channels.  
 •	Developed dashboards and visualizations to facilitate the interpretation of results by the business.
+
+🧠 Why this analytical approach?:  
+Acquisition volume alone is not sufficient to evaluate marketing effectiveness. I therefore combined behavioral metrics with business indicators such as Customer Acquisition Cost (CAC), Customer Lifetime Value (LTV), Return on Investment (ROI), retention, and conversion. This approach allowed recommendations to be based on sustainable customer value rather than short-term traffic generation.
+
+⚙️ Main analytical decisions:  
+•	Applied cohort analysis to compare customer behavior over time instead of relying only on aggregated monthly metrics.  
+•	Evaluated acquisition channels using both profitability and customer retention indicators.  
+•	Integrated financial and behavioral metrics into the same analytical framework to support investment decisions.  
+•	Focused recommendations on long-term business performance rather than isolated marketing outcomes.  
+•	Prioritized actionable insights that could directly support budget allocation decisions.  
 
 🛠️ Technical Tools:  
 Python | SQL | Pandas | NumPy | Matplotlib | Seaborn
@@ -45,6 +58,9 @@ Redistribute the budget toward acquisition sources with the best balance between
 
 💭 General recommendations:  
 Recommended prioritizing channels with the highest return on investment and rethinking the acquisition strategy for those with low profitability and lower user retention.
+
+🔮 What I would do next:  
+As a continuation of this project, I would evaluate multi-touch attribution models to better understand the contribution of each acquisition channel throughout the customer journey. I would also segment users according to acquisition campaigns, develop predictive LTV models, and validate budget redistribution strategies through controlled marketing experiments before scaling investment decisions.
 
 ▶️ How to Run:  
 •	Clone the repository: git clone https://github.com/Cusirramos-Diego/Optimization-of-marketing-strategies-through-user-behavior-analysis.git  
